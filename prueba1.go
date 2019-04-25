@@ -1,3 +1,5 @@
+// version 1.1
+
 package main
         import "fmt"
         import "os"
@@ -121,3 +123,4 @@ package main
         time.Sleep(10 * time.Second)
         
      }
+
